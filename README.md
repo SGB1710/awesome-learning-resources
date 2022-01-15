@@ -3,6 +3,7 @@ A curated list of learning resources that I had the chance to read, watch or lis
 
 Special mention to Kaggle platform where you can learn Python, data analysis, data visualization & Machine Learning
 
+## Resources so far...
 ### Code
 * Books:
     * Clean Code
@@ -89,7 +90,7 @@ Special mention to Kaggle platform where you can learn Python, data analysis, da
     * Foundamentals of data visualization
 
 
-## Next topics:
+## Coming next...
 ### Statistics
 * Bayesian statistics:
     * Bayesian statistics for hackers
