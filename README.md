@@ -1,7 +1,7 @@
 # awesome-learning-resources
 A curated list of learning resources that I had the chance to read, watch or listen. Mostly data science related topics.
 
-Special mention to Kaggle platform where you can learn Python, data analysis, data visualization & Machine Learning
+Special mention to Kaggle platform where you can endless learning resources for Python, data analysis, data visualization, Machine Learning...
 
 ## Resources so far...
 ### Code
@@ -15,7 +15,7 @@ Special mention to Kaggle platform where you can learn Python, data analysis, da
     * gitflow
 
 
-### Linux:
+### Linux
 * Magazines:
     * Linux Magazine
     * Admin Magazine
@@ -27,7 +27,7 @@ Special mention to Kaggle platform where you can learn Python, data analysis, da
     * DistroTube
 
 
-### Python:
+### Python
 * Books:
     * Python para todos
     * Python tricks
@@ -36,7 +36,7 @@ Special mention to Kaggle platform where you can learn Python, data analysis, da
     * Píldoras informáticas
 
 
-### SQL:
+### SQL
 * Courses:
     * Píldoras informáticas
 
@@ -44,7 +44,7 @@ Special mention to Kaggle platform where you can learn Python, data analysis, da
     * Web to practise queries
 
 
-### Machine Learning:
+### Machine Learning
 * Books:
     * Deep Learning
     * Hands-on Machine Learning with scikit-learn, TF & Keras
@@ -69,7 +69,7 @@ Special mention to Kaggle platform where you can learn Python, data analysis, da
     * ...
 
 
-### MLOps:
+### MLOps
 * Courses:
     * MadewithML
     * Coursera
@@ -80,12 +80,12 @@ Special mention to Kaggle platform where you can learn Python, data analysis, da
     * Machine learning Engineering book
 
 
-### Statistics:
+### Statistics
 * Books:
     * Practical Statistics for Data Scientists
 
 
-### Data visualization:
+### Data visualization
 * Books:
     * Foundamentals of data visualization
 
@@ -102,13 +102,13 @@ Special mention to Kaggle platform where you can learn Python, data analysis, da
     * R
     * Rust
 
-### Data visualization:
+### Data visualization
 * Libraries:
     * Streamlit
     * Plotly
         
     
-### Data analysis:
+### Data analysis
 * Libraries/tools
     Spark
     Arrow/cuda
