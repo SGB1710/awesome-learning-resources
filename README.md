@@ -1,7 +1,7 @@
 # awesome-learning-resources
 A curated list of learning resources that I had the chance to read, watch or listen. Mostly data science related topics.
 
-Special mention to Kaggle platform where you can endless learning resources for Python, data analysis, data visualization, Machine Learning...
+Special mention to Kaggle platform where you can find endless learning resources for Python, data analysis, data visualization, Machine Learning...
 
 ## Resources so far...
 ### Code
@@ -75,7 +75,11 @@ Special mention to Kaggle platform where you can endless learning resources for 
     * Coursera
     
 * Libraries:
+    * MLflow
+    * dvc
+    * Awswrangler
     * Great expectations
+
 * Books:
     * Machine learning Engineering book
 
@@ -91,8 +95,20 @@ Special mention to Kaggle platform where you can endless learning resources for 
 
 
 ## Coming next...
+### Python
+* Books
+    * Cpython internals
+
+
+### Machine Learning
+* Books
+    * Deep Learning with Python
+    * The Hundred-Page Machine Learning Book
+
+
 ### Statistics
-* Bayesian statistics:
+* Books:
+    * Statistical rethinking
     * Bayesian statistics for hackers
     * Introduction
     * PyMC
@@ -110,10 +126,14 @@ Special mention to Kaggle platform where you can endless learning resources for 
     
 ### Data analysis
 * Libraries/tools
-    Spark
-    Arrow/cuda
-    BigQuery
+    * Spark
+    * Arrow/cuda
+    * BigQuery
 
 * Repos
     * Geospatial data -> link to detailed repo
 
+
+### Data infrastructure
+* Books
+    * Designing data-intensive applications
